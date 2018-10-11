@@ -1,0 +1,55 @@
+{
+  "Articles":
+  [
+    {
+      "id": 1,
+      "title": "about yourself",
+      "text": "hello, i'm Eduard",
+      "date": "02-05-1999",
+      "author": "Eduard",
+      "page": 3,
+      "comments":
+      [
+        {
+          "id": 1,
+          "articleId": 1,
+          "text": "comments for Eduard - 1",
+          "date": "10-10-2018",
+          "author": "Eduard"
+        },
+        {
+          "id": 2,
+          "articleId": 1,
+          "text": "comments for Eduard - 2",
+          "date": "10-10-2018",
+          "author": "Eduard"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "about yourself",
+      "text": "hello, i'm Kirill",
+      "date": "04-11-1998",
+      "author": "Kirill",
+      "page": 5,
+      "comments":
+      [
+        {
+          "id": 1,
+          "articleId": 2,
+          "text": "comments for Kirill - 1",
+          "date": "10-10-2018",
+          "author": "Kirill"
+        },
+        {
+          "id": 2,
+          "articleId": 2,
+          "text": "comments for Kirill - 2",
+          "date": "10-10-2018",
+          "author": "Kirill"
+        }
+      ]
+    }
+  ]
+}
